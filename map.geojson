@@ -5,14 +5,15 @@
             "type": "Feature",
             "id": "way/1481723824",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "2282",
-                "addr:street": "25-я улица, СНТ Сборщик",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "25-я улица",
                 "building": "house",
                 "building:levels": "1",
                 "id": "way/1481723824"
@@ -57,14 +58,15 @@
             "type": "Feature",
             "id": "way/1481723825",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "2201",
-                "addr:place": "25-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "25-я улица",
                 "building": "house",
                 "building:levels": "2",
                 "id": "way/1481723825"
@@ -109,14 +111,15 @@
             "type": "Feature",
             "id": "way/1481723826",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "2202",
-                "addr:place": "25-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "25-я улица",
                 "building": "house",
                 "building:levels": "2",
                 "id": "way/1481723826"
@@ -153,14 +156,15 @@
             "type": "Feature",
             "id": "way/1481723827",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "2203",
-                "addr:place": "25-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "25-я улица",
                 "building": "yes",
                 "building:levels": "2",
                 "id": "way/1481723827"
@@ -209,13 +213,14 @@
             "type": "Feature",
             "id": "way/1481723828",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
-                "addr:street": "25-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "25-я улица",
                 "building": "yes",
                 "building:levels": "1",
                 "id": "way/1481723828"
@@ -260,13 +265,14 @@
             "type": "Feature",
             "id": "way/1481723829",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
-                "addr:street": "25-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "25-я улица",
                 "building": "house",
                 "id": "way/1481723829"
             },
@@ -302,13 +308,14 @@
             "type": "Feature",
             "id": "way/1481723830",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
-                "addr:street": "25-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "25-я улица",
                 "building": "yes",
                 "building:levels": "2",
                 "id": "way/1481723830"
@@ -345,14 +352,15 @@
             "type": "Feature",
             "id": "way/1481723831",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "2205",
-                "addr:street": "25-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "25-я улица",
                 "building": "house",
                 "building:levels": "2",
                 "id": "way/1481723831"
@@ -389,14 +397,15 @@
             "type": "Feature",
             "id": "way/1481723832",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "2279",
-                "addr:street": "25-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "25-я улица",
                 "building": "house",
                 "building:levels": "2",
                 "id": "way/1481723832"
@@ -433,14 +442,15 @@
             "type": "Feature",
             "id": "way/1481723833",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "2196А",
-                "addr:street": "24-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "24-я улица",
                 "building": "house",
                 "building:levels": "2",
                 "id": "way/1481723833"
@@ -481,14 +491,15 @@
             "type": "Feature",
             "id": "way/1481723834",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "4",
-                "addr:street": "24-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "24-я улица",
                 "building": "house",
                 "id": "way/1481723834"
             },
@@ -524,13 +535,14 @@
             "type": "Feature",
             "id": "way/1481723835",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
-                "addr:street": "24-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "24-я улица",
                 "building": "yes",
                 "building:levels": "1",
                 "id": "way/1481723835"
@@ -567,13 +579,14 @@
             "type": "Feature",
             "id": "way/1481723836",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
-                "addr:street": "24-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "24-я улица",
                 "building": "yes",
                 "building:levels": "2",
                 "id": "way/1481723836"
@@ -622,14 +635,15 @@
             "type": "Feature",
             "id": "way/1481723837",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "2192",
-                "addr:street": "24-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "24-я улица",
                 "building": "house",
                 "building:levels": "2",
                 "id": "way/1481723837"
@@ -666,14 +680,15 @@
             "type": "Feature",
             "id": "way/1481723838",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "2206",
-                "addr:street": "25-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "25-я улица",
                 "building": "house",
                 "building:levels": "2",
                 "id": "way/1481723838"
@@ -710,14 +725,15 @@
             "type": "Feature",
             "id": "way/1481723839",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "15",
-                "addr:street": "25-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "25-я улица",
                 "building": "house",
                 "id": "way/1481723839"
             },
@@ -753,14 +769,15 @@
             "type": "Feature",
             "id": "way/1481723840",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "2276",
-                "addr:street": "25-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "25-я улица",
                 "building": "house",
                 "building:levels": "2",
                 "id": "way/1481723840"
@@ -801,14 +818,15 @@
             "type": "Feature",
             "id": "way/1481723841",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
                 "addr:housenumber": "2277",
-                "addr:street": "25-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "25-я улица",
                 "building": "house",
                 "building:levels": "2",
                 "id": "way/1481723841"
@@ -853,13 +871,14 @@
             "type": "Feature",
             "id": "way/1481723842",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
-                "addr:street": "25-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "25-я улица",
                 "building": "yes",
                 "building:levels": "2",
                 "id": "way/1481723842"
@@ -912,13 +931,14 @@
             "type": "Feature",
             "id": "way/1481723843",
             "properties": {
-                "timestamp": "2026-02-22T11:00:33Z",
-                "version": "1",
-                "changeset": "178893717",
+                "timestamp": "2026-03-09T10:17:42Z",
+                "version": "2",
+                "changeset": "179574291",
                 "user": "Andrei Paniushkin",
                 "uid": "23840618",
                 "addr:city": "сельское поселение Тимофеевка",
-                "addr:street": "24-я улица, СНТ «Берёзка»",
+                "addr:place": "СНТ Сборщик",
+                "addr:street": "24-я улица",
                 "building": "yes",
                 "building:levels": "2",
                 "id": "way/1481723843"
@@ -947,6 +967,166 @@
                             49.2961603,
                             53.5929578
                         ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/308542628",
+            "properties": {
+                "timestamp": "2026-02-24T03:58:23Z",
+                "version": "4",
+                "changeset": "178969445",
+                "user": "ajmat",
+                "uid": "20051395",
+                "highway": "unclassified",
+                "id": "way/308542628"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.2763173,
+                        53.5931469
+                    ],
+                    [
+                        49.2763759,
+                        53.5931352
+                    ],
+                    [
+                        49.2771184,
+                        53.5930665
+                    ],
+                    [
+                        49.2779646,
+                        53.5929926
+                    ],
+                    [
+                        49.2787967,
+                        53.5929185
+                    ],
+                    [
+                        49.2795974,
+                        53.5928449
+                    ],
+                    [
+                        49.2804558,
+                        53.5927673
+                    ],
+                    [
+                        49.2812961,
+                        53.5926972
+                    ],
+                    [
+                        49.282142,
+                        53.5926267
+                    ],
+                    [
+                        49.2829859,
+                        53.5925563
+                    ],
+                    [
+                        49.2838328,
+                        53.5924857
+                    ],
+                    [
+                        49.2846472,
+                        53.5924183
+                    ],
+                    [
+                        49.2854554,
+                        53.5923518
+                    ],
+                    [
+                        49.2863722,
+                        53.5922819
+                    ],
+                    [
+                        49.2872316,
+                        53.5922077
+                    ],
+                    [
+                        49.2880944,
+                        53.5921341
+                    ],
+                    [
+                        49.2889337,
+                        53.5920648
+                    ],
+                    [
+                        49.2897676,
+                        53.5919962
+                    ],
+                    [
+                        49.290588,
+                        53.5919282
+                    ],
+                    [
+                        49.2913412,
+                        53.5918715
+                    ],
+                    [
+                        49.2921536,
+                        53.5918075
+                    ],
+                    [
+                        49.2930322,
+                        53.5917383
+                    ],
+                    [
+                        49.293853,
+                        53.5916736
+                    ],
+                    [
+                        49.2947041,
+                        53.5915946
+                    ],
+                    [
+                        49.2956388,
+                        53.5915518
+                    ],
+                    [
+                        49.29648,
+                        53.5914709
+                    ],
+                    [
+                        49.2971897,
+                        53.5913962
+                    ],
+                    [
+                        49.2980525,
+                        53.591284
+                    ],
+                    [
+                        49.2980231,
+                        53.5911414
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/308549406",
+            "properties": {
+                "timestamp": "2014-10-19T10:27:09Z",
+                "version": "1",
+                "changeset": "26189624",
+                "user": "massterr",
+                "uid": "2059021",
+                "highway": "service",
+                "id": "way/308549406"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.2956388,
+                        53.5915518
+                    ],
+                    [
+                        49.2977794,
+                        53.5991723
                     ]
                 ]
             }
